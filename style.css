@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+
+body {
+    font-size: 20px;
+    
+}
+
+ul,li {
+    flex-direction: row;
+    border: 1px solid black;
+    padding: 10px 10px;
+    background-color: aliceblue;
+    
+}
+
+.google2 {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: blue;
+}
+
+
+
+.google {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.google1 {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: blue;
+}
+
+
+.google:hover {
+    background-color: blue;
+}
+
+.nav2 {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+}
